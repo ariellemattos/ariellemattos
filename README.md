@@ -19,3 +19,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="right" alt="Ari-pic" height="150" style="border-radius:50px;" src="https://share-cdn.picrew.me/shareImg/org/202110/1272810_PqM6R1NQ.png">
 </div>
+  
+<p align="center"> Obrigada pela visita </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ariellemattos/count.svg" /></p>
