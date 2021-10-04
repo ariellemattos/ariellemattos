@@ -1,8 +1,5 @@
 ### I am Arielle Mattos!👋
 
-
-Here are some ideas to get you started:
-
 - 🏡 I’m from Brazil
 - 💻 I'm Software Quality Assurance Analyst and Java Developer
 - 📚 I'm a student of Bachelor's of science in Information technology
