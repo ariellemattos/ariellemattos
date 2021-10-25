@@ -3,6 +3,7 @@
 - 🏡 I’m from Brazil
 - 💻 I'm Software Quality Assurance Analyst and Java Developer
 - 📚 I'm a student of Bachelor's of science in Information technology
+- 💡 Speaker at "QAxperience" about E2E Cypress Testing
 
 <div align="center">
   <a href="https://github.com/ariellemattos">
